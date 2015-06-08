@@ -41,6 +41,16 @@ ul.posts {
 ul.posts li {
     list-style: none;
 }
+
 h2 {
     text-decoration: underline;    
+}
+
+h6 {
+    font-size: 0.7em;
+    color: #777;
+}
+
+h5{
+    font-size: .8em;
 }
