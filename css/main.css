@@ -47,10 +47,12 @@ h2 {
 }
 
 h6 {
-    font-size: 0.7em;
+    font-size: 0.8em;
     color: #777;
+    font-weight: none;
 }
 
 h5{
-    font-size: .8em;
+    font-size: 1em;
+    font-weight: none;
 }
