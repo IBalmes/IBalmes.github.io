@@ -49,10 +49,10 @@ h2 {
 h6 {
     font-size: 0.8em;
     color: #777;
-    font-weight: none;
+    font-weight: normal;
 }
 
 h5{
     font-size: 1em;
-    font-weight: none;
+    font-weight: normal;
 }
