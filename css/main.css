@@ -56,3 +56,8 @@ h5{
     font-size: 1em;
     font-weight: normal;
 }
+
+/* for float */
+.flottant{
+    float: right;
+}
