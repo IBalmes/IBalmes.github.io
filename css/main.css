@@ -54,6 +54,7 @@ figure{
     display: block;
     margin-right: auto;
     margin-left: auto;
+    padding: 0;
 }
 /* for float */
 .flottant{
