@@ -5,19 +5,19 @@ body {
 }
 nav, footer{
     background-color: #00A7A0;
-    border: 1px solid black;
+    /* border: 1px solid black; */
     padding-left: 10 px;
     padding-top: 10 px;
 } /*background-color not convincing */
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    border: 1px solid blue;
-    padding: 0px;
+    /* border: 1px solid blue; */
+    /*padding: 0px;*/
     list-style: none;
     font-weight: bold;
 }
 nav ul li, footer ul li {
-    border: 1px solid red;
+    /* border: 1px solid red;*/
     display: inline;
     margin-right: 20px;
     margin-left: 10px;
