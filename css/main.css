@@ -3,8 +3,10 @@ body {
     width: 70%;
     background-color: #DFF0E9;
 }
-nav{
+nav, footer{
     background-color: #6AC3A9;
+    padding-left: 10 px;
+    padding-top: 10 px;
 } /*background-color not convincing */
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
@@ -50,8 +52,7 @@ p.cv {
     font-weight: normal;
 }
 figure{
-    width: 300px;
-    border: 1px solid black;
+   /* width: 300px;*/
     display: block;
     margin-right: auto;
     margin-left: auto;
