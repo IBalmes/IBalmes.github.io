@@ -57,11 +57,11 @@ p.cv {
     font-weight: normal;
 }
 figure{
-   /* width: 300px;*/
+    width: 300px;
     display: block;
     margin-right: auto;
     margin-left: auto;
-    padding: 0;
+    padding: 0px;
 }
 /* for float */
 .flottant{
