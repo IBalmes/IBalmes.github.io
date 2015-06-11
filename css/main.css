@@ -3,9 +3,9 @@ body {
     width: 70%;
     background-color: #DFF0E9;
 }
-/* nav{
+nav{
     background-color: #6AC3A9;
-} background-color not convincing */
+} /*background-color not convincing */
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
