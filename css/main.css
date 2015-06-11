@@ -26,39 +26,35 @@ h1 {
 }
 p {
     font-size: 1.2em;
-    line-height: 1.4em;
+    line-height: 1.2em;
 }
 footer {
     border-top: 1px solid #d5d5d5;
     font-size: .8em;
 }
-
 h2 {
     text-decoration: underline;    
 }
-
-h6 {
+h4 {
     font-size: 0.9em;
+    line-height: 1em;
     color: #A7A7A7;
     font-weight: normal;
 }
-
-h5{
+p.cv {
     font-size: 1em;
+    line-height: 1em;
     font-weight: normal;
 }
-
 figure{
     display: block;
     margin-right: auto;
     margin-left: auto;
 }
-
 /* for float */
 .flottant{
     float: right;
 }
-
 .underimage{
     clear: both;
 }
