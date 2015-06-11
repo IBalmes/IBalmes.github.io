@@ -50,6 +50,7 @@ p.cv {
     font-weight: normal;
 }
 figure{
+    width: 300px;
     border: 1px solid black;
     display: block;
     margin-right: auto;
