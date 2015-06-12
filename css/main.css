@@ -3,9 +3,11 @@ html {
 }
 body {
     margin: 60px auto;
-    width: 70%;
+    width: 80%;
     border: 1px solid black;
     background-color: #DFF0E9;
+    padding-left: 10px;
+    padding-right: 10px;
 }
 nav, footer{
     /*background-color: #00A7A0;*/
