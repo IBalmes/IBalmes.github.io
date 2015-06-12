@@ -71,9 +71,11 @@ figure{
 }
 figure.header{
     width: 80%;
+    height: 200px;
     display: block;
     margin-right: auto;
     margin-left: auto;
+    padding: 0px;
 }
 /* for float */
 .flottant{
